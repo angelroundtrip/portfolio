@@ -1,17 +1,25 @@
-// import logo from './logo.svg';
 import '../App.css';
+import { Routes, Route } from "react-router-dom";
+import FrontPage from './FrontPage';
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-        Hi, welcome to my portfolio!
-        </p>
-       
-      </header>
-    </div>
+
+    <Routes>
+    
+      <Route path="/" 
+        element={
+          <FrontPage />
+        }
+      />
+
+    </Routes>
+    
+  </div>
   );
 }
 
-export default App;
+export default App
