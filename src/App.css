@@ -1,13 +1,7 @@
-.App {
+.front {
   text-align: center;
-  /* background-color: tan; */
+  font-family: 'Roboto', sans-serif;
 }
-
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
 
 .App-link {
   color: #61dafb;
@@ -71,3 +65,18 @@ input:hover{
   text-decoration: none;
   color: black;
 }
+
+.social{
+  box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+  padding: 5px;
+  margin: 10px;
+  border-radius: 100px;
+}
+
+/* .social:hover{
+  box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+  padding: 5px;
+  margin: 10px;
+  border: 2px solid navy;
+  border-radius: 100px;
+} */
