@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.adcae13f.css",
-    "main.js": "/static/js/main.15eb3b2f.js",
+    "main.css": "/static/css/main.7794ff1c.css",
+    "main.js": "/static/js/main.627ed2a3.js",
+    "static/media/Peru.jpg": "/static/media/Peru.6e818abd1106fa47c5f3.jpg",
     "index.html": "/index.html",
-    "main.adcae13f.css.map": "/static/css/main.adcae13f.css.map",
-    "main.15eb3b2f.js.map": "/static/js/main.15eb3b2f.js.map"
+    "main.7794ff1c.css.map": "/static/css/main.7794ff1c.css.map",
+    "main.627ed2a3.js.map": "/static/js/main.627ed2a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.adcae13f.css",
-    "static/js/main.15eb3b2f.js"
+    "static/css/main.7794ff1c.css",
+    "static/js/main.627ed2a3.js"
   ]
 }
