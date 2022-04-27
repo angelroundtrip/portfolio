@@ -1,5 +1,9 @@
-.front {
+.center {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.left {
   font-family: 'Roboto', sans-serif;
 }
 
@@ -15,18 +19,19 @@
   /* margin-top: 30px; */
   font-size: larger;
   padding: 15px;
-  outline: 2px solid peachpuff; 
-  /* background-color: sandybrown; */
+  /* outline: 2px solid peachpuff;  */
+  /* background-color: #f6eac2; */
   /* color: white */
+  font-family: 'Roboto', sans-serif;
 }
 
-.card:hover {
+/* .card:hover {
   box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
   border-radius: 15px;
-}
+} */
 
 button{
-  background-color: lavender;
+  background-color: transparent;
   border-radius: 10px;
   border: 2px solid purple;
   padding: 10px;
@@ -35,7 +40,7 @@ button{
 }
 
 /* button:hover{
-  background-color: peachpuff;
+  background-color: transparent;
   border-radius: 10px;
   border: 1px solid peachpuff;
   padding: 10px;
@@ -82,3 +87,9 @@ input:hover{
   border: 2px solid navy;
   border-radius: 100px;
 } */
+
+.image{
+  /* box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2); */
+  border-radius: 100px;
+  height: 200px
+}
