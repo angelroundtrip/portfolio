@@ -26,19 +26,21 @@
 }
 
 button{
-  background-color: transparent;
+  background-color: lavender;
   border-radius: 10px;
-  border: 2px solid peachpuff;
+  border: 2px solid purple;
   padding: 10px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
 }
 
-button:hover{
+/* button:hover{
   background-color: peachpuff;
   border-radius: 10px;
   border: 1px solid peachpuff;
   padding: 10px;
   color: black;
-}
+} */
 
 input{
   background-color: rgb(250, 248, 246);
