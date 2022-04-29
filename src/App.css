@@ -91,5 +91,9 @@ input:hover{
 .image{
   /* box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2); */
   border-radius: 100px;
-  height: 200px
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
 }

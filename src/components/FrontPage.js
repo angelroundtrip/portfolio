@@ -12,8 +12,8 @@ function FrontPage() {
 
       <Header className="left" as='h1'>Angel Rosario</Header>
       <hr></hr>
-
       <Image src={Peru} className='image' />
+
       <p></p>
       <Card className="center">
         Who am I?
