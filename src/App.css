@@ -1,3 +1,14 @@
+.main {
+  background-color: peachpuff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* font-size: calc(10px + 2vmin); */
+  /* color: white; */
+}
+
 .center {
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -33,19 +44,19 @@
 button{
   background-color: transparent;
   border-radius: 10px;
-  border: 2px solid purple;
+  border: 2px solid navy;
   padding: 10px;
   font-weight: bold;
   font-family: 'Roboto', sans-serif;
 }
 
-/* button:hover{
+button:hover{
   background-color: transparent;
   border-radius: 10px;
-  border: 1px solid peachpuff;
+  border: 2px solid orange;
   padding: 10px;
   color: black;
-} */
+}
 
 input{
   background-color: rgb(250, 248, 246);
