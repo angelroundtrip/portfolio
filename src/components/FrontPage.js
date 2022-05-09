@@ -10,7 +10,7 @@ function FrontPage() {
   return (
     <div>
 
-      <Header className="left" as='h1'>Angel Rosario</Header>
+      <Header className="center" as='h1'>Angel Rosario</Header>
       <hr></hr>
       <Image src={Peru} className='image' />
 
